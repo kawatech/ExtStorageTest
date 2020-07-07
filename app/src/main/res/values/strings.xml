@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <resources>
-    <string name="app_name">TestWriteExternalStorageFile</string>
+    <string name="app_name">TestWriteKot</string>
     <string name="hint">"文字を入力"</string>
     <string name="write">Write file</string>
     <string name="read">Read file</string>
